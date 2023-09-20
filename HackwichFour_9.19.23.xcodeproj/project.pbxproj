@@ -16,6 +16,8 @@
 		EB3FAAE22ABA6EC300249FE4 /* HackwichFour_9_19_23Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB3FAAE12ABA6EC300249FE4 /* HackwichFour_9_19_23Tests.swift */; };
 		EB3FAAEC2ABA6EC300249FE4 /* HackwichFour_9_19_23UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB3FAAEB2ABA6EC300249FE4 /* HackwichFour_9_19_23UITests.swift */; };
 		EB3FAAEE2ABA6EC300249FE4 /* HackwichFour_9_19_23UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB3FAAED2ABA6EC300249FE4 /* HackwichFour_9_19_23UITestsLaunchTests.swift */; };
+		EB3FAAFB2ABA70C100249FE4 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB3FAAFA2ABA70C100249FE4 /* secondViewController.swift */; };
+		EB3FAAFD2ABA71AB00249FE4 /* thirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB3FAAFC2ABA71AB00249FE4 /* thirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		EB3FAAE72ABA6EC300249FE4 /* HackwichFour_9.19.23UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HackwichFour_9.19.23UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB3FAAEB2ABA6EC300249FE4 /* HackwichFour_9_19_23UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichFour_9_19_23UITests.swift; sourceTree = "<group>"; };
 		EB3FAAED2ABA6EC300249FE4 /* HackwichFour_9_19_23UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichFour_9_19_23UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EB3FAAFA2ABA70C100249FE4 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
+		EB3FAAFC2ABA71AB00249FE4 /* thirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				EB3FAACC2ABA6EC200249FE4 /* SceneDelegate.swift */,
 				EB3FAACE2ABA6EC200249FE4 /* ViewController.swift */,
 				EB3FAAD02ABA6EC200249FE4 /* Main.storyboard */,
+				EB3FAAFC2ABA71AB00249FE4 /* thirdViewController.swift */,
+				EB3FAAFA2ABA70C100249FE4 /* secondViewController.swift */,
 				EB3FAAD32ABA6EC300249FE4 /* Assets.xcassets */,
 				EB3FAAD52ABA6EC300249FE4 /* LaunchScreen.storyboard */,
 				EB3FAAD82ABA6EC300249FE4 /* Info.plist */,
@@ -258,7 +264,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EB3FAAFB2ABA70C100249FE4 /* secondViewController.swift in Sources */,
 				EB3FAACF2ABA6EC200249FE4 /* ViewController.swift in Sources */,
+				EB3FAAFD2ABA71AB00249FE4 /* thirdViewController.swift in Sources */,
 				EB3FAACB2ABA6EC200249FE4 /* AppDelegate.swift in Sources */,
 				EB3FAACD2ABA6EC200249FE4 /* SceneDelegate.swift in Sources */,
 			);
